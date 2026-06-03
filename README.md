@@ -140,3 +140,9 @@ install/
 log/
 License
 This project is for research and educational use.
+## 学习资源
+B站：傅傅猪，LLM推理框架
+github:https://caomaolufei.github.io/AIInfraGuide(AI Infra啥也不明白的可以看这个)
+TensorRT:看我代码里的yolo就行，推理框架就是比较固定的，我也只是做了yolo前后端的CUDA优化
+CUDA/Tensor core:https://github.com/Bruce-Lee-LY/cuda_hgemm;https://github.com/siboehm/SGEMM_CUDA；
+https://github.com/xlite-dev
